@@ -121,3 +121,23 @@ Related working papers in the series:
 ---
 
 *Comments and adversarial feedback welcome.*
+---
+
+## Series navigation
+
+This paper is **Paper 1** of the Solbakken cognition series.
+
+| Paper | Title | Status |
+|-------|-------|--------|
+| 1 | Thinking as Relationship (this repo) | Published |
+| 2 | [From Bits to Meaning](https://github.com/bluebflatminor/from-bits-to-meaning) | Published |
+| 3 | Perspectival Continuity — Toward Operationalization | Not yet written |
+
+**What Paper 2 does with Paper 1's open problems:**
+
+Paper 1 identified perspectival continuity as its most central undefined term — present in three critical locations, operationalized in none. Paper 2 proposes a physics-grounded operationalization:
+
+- **C1 — Structural irreversibility:** computation alters the underlying physical substrate permanently
+- **C2 — State-dependent feedback:** current state Ψ(t) is a continuous function of all previous states
+
+Both must operate simultaneously in the same high-dimensional representational space. This discriminates against thermostats and delay lines while giving hybrid resonant architectures a theoretical path toward satisfying the conditions. Whether C1 and C2 are sufficient as well as necessary for perspectival continuity is Paper 3's problem.
